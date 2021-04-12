@@ -1,0 +1,75 @@
+nav ul li {
+  font-size:15px;
+  display:inline;
+  margin-left:10px;
+  margin-right:10px;
+  font-family: 'Kiwi Maru', serif;
+}
+p {
+  color:white;
+  font-size:40px;
+ font-family: 'Caveat', cursive;
+line-height: 1.6;
+text-align: justify;
+}
+body {
+ background-color:blue;
+}
+nav ul li {
+    list-style-type: none;
+}
+nav ul {
+  background-color: red;
+  border-style: solid;
+  border-color: MediumVioletRed;
+  border-width: 2px;
+  padding: 10px;
+  border-radius: 10px;
+}
+nav ul li a {
+    text-decoration: none;
+    color: White;
+}
+img{
+  widgth:400px;
+  height:250px;
+  border-radius: 10px;
+}
+ol li{
+  color:white;
+}
+li {
+  color:white;
+}
+table, th, td {
+  border: 1px solid HoneyDew;
+  border-collapse: collapse;
+}
+tr {
+  background-color: Red;
+}
+th, td {
+  vertical-align: top;
+  padding: 5px;
+  text-align: left;
+}
+th {
+  color: white;
+}
+td {
+  color: white;
+}
+body {
+  background-image:https://i.pinimg.com/originals/57/20/eb/5720ebd0de026c17bfaa2229c93819a8.jpg;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+body {
+  background-image: url();
+  background-repeat: no-repeat;
+}
+h3 {
+  color:white;
+}
+}
